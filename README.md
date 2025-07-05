@@ -37,7 +37,7 @@ labels.txt — text file with class labels (one per line)
 
 Your test image (e.g., room.jpg)
 
-نسخ
+
 Class: bright room
 Confidence Score: 0.98
 The model successfully predicts whether the image depicts a bright or dark room with high accuracy.
