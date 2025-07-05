@@ -1,0 +1,2 @@
+0 dark room
+1 bright room
