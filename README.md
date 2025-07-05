@@ -26,9 +26,9 @@ Input shape: (1, 224, 224, 3) for 224×224 RGB images
 
 🚀 How to Use
 🔧 Prerequisites
+
 bash
-نسخ
-تحرير
+
 pip install tensorflow pillow numpy
 📁 Files Required
 keras_Model.h5 — trained model
